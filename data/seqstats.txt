@@ -1,0 +1,171 @@
+type	Bone	Sample	value	diff	variable	comb
+Stapes	Petrous	bah037	4.72472459876121	1446.2384126766	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	bah037	73.0555066392264	1446.2384126766	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk036	22.8688099044528	207.18288056922	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk036	70.2490690163972	207.18288056922	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk038	60.2198673189108	28.8777034330173	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk038	77.6099820110224	28.8777034330173	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk039	44.0765280847496	72.8789354885634	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk039	76.1990325532328	72.8789354885634	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk046	14.778987809261	293.090927825904	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk046	58.0948603027013	293.090927825904	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk060	35.4704757850897	111.371458173908	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk060	74.974461888167	111.371458173908	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	ksk086	73.7486041453342	-0.14375720246972	Human Proportion (%)	Petrous|Stapes
+Stapes	Stapes	ksk086	73.6425852151544	-0.14375720246972	Human Proportion (%)	Petrous|Stapes
+Stapes	Petrous	bah037	10.0599148139685	-88.5615092703742	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	bah037	1.15070242340404	-88.5615092703742	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk036	9.28743815769563	-50.6357849259906	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk036	4.58467094703049	-50.6357849259906	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk038	4.81893478571076	1.93484238108439	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk038	4.91217357826151	1.93484238108439	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk039	7.09414864544338	-39.0724182225504	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk039	4.32229321736635	-39.0724182225504	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk046	6.89221111218975	-61.1149324856613	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk046	2.68004094420574	-61.1149324856613	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk060	3.06984078216191	-6.66759152859331	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk060	2.86515633822918	-6.66759152859331	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	ksk086	2.10630420810219	95.9192738158343	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Stapes	ksk086	4.12665590886617	95.9192738158343	Downsampled Clonality (%)	Petrous|Stapes
+Stapes	Petrous	bah037	70.5416	4.12508363859055	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	bah037	73.4515	4.12508363859055	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk036	70.9711	7.61577599896294	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk036	76.3761	7.61577599896294	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk038	72.4333	9.04045514977227	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk038	78.9816	9.04045514977227	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk039	66.0938	14.699865948092	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk039	75.8095	14.699865948092	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk046	55.3555	15.2281164473268	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk046	63.7851	15.2281164473268	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk060	69.3315	7.19600758673906	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk060	74.3206	7.19600758673906	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	ksk086	88.6593	0.129822816106148	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Stapes	ksk086	88.7744	0.129822816106148	Avg Read Length (bp)	Petrous|Stapes
+Stapes	Petrous	bah037	35.1	1.997150997151	PMD (%)	Petrous|Stapes
+Stapes	Stapes	bah037	35.801	1.997150997151	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk036	37.679	-2.52660633243983	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk036	36.727	-2.52660633243983	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk038	31.779	-2.11145725164417	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk038	31.108	-2.11145725164417	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk039	34.15	-9.14494875549047	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk039	31.027	-9.14494875549047	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk046	42.177	-4.31751902695782	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk046	40.356	-4.31751902695782	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk060	35.445	-11.2709832134293	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk060	31.45	-11.2709832134293	PMD (%)	Petrous|Stapes
+Stapes	Petrous	ksk086	19.108	0.293070965040826	PMD (%)	Petrous|Stapes
+Stapes	Stapes	ksk086	19.164	0.293070965040826	PMD (%)	Petrous|Stapes
+Stapes	Petrous	bah037	NA	NA	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	bah037	0.9804384	NA	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk036	0.9236759	4.44954772556045	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk036	0.9647753	4.44954772556045	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk038	0.9667291	-1.2147043054771	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk038	0.9549862	-1.2147043054771	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk039	0.9491195	1.6496552857675	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk039	0.9647767	1.6496552857675	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk046	0.9549867	3.03759204185776	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk046	0.9839953	3.03759204185776	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk060	0.9956152	-0.340151496280894	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk060	0.9922286	-0.340151496280894	Cont. Est.	Petrous|Stapes
+Stapes	Petrous	ksk086	0.9936092	-1.32279371004213	Cont. Est.	Petrous|Stapes
+Stapes	Stapes	ksk086	0.9804658	-1.32279371004213	Cont. Est.	Petrous|Stapes
+Malleus	Malleus	bah032	26.746200349595	99.8186097268196	Human Proportion (%)	Petrous|Malleus
+Malleus	Petrous	bah032	0.0485150058795064	99.8186097268196	Human Proportion (%)	Petrous|Malleus
+Malleus	Malleus	ksk034	47.3828209077572	-22.1595236298378	Human Proportion (%)	Petrous|Malleus
+Malleus	Petrous	ksk034	57.8826283032954	-22.1595236298378	Human Proportion (%)	Petrous|Malleus
+Malleus	Malleus	ksk056	65.9701487429836	9.34591547167785	Human Proportion (%)	Petrous|Malleus
+Malleus	Petrous	ksk056	59.8046344049242	9.34591547167785	Human Proportion (%)	Petrous|Malleus
+Malleus	Malleus	ksk061	32.8457062243137	-29.1406294833485	Human Proportion (%)	Petrous|Malleus
+Malleus	Petrous	ksk061	42.4171517763301	-29.1406294833485	Human Proportion (%)	Petrous|Malleus
+Malleus	Malleus	ksk073	60.5403254382455	10.1081192456085	Human Proportion (%)	Petrous|Malleus
+Malleus	Petrous	ksk073	54.4208371512682	10.1081192456085	Human Proportion (%)	Petrous|Malleus
+Malleus	Malleus	bah032	3.48903415882464	-371.459423518632	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Petrous	bah032	16.4493803315628	-371.459423518632	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Malleus	ksk034	3.91840766349218	35.3216695602125	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Petrous	ksk034	2.53436065657143	35.3216695602125	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Malleus	ksk056	2.32094324741154	-37.5537554406879	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Petrous	ksk056	3.19254459846163	-37.5537554406879	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Malleus	ksk061	2.85396675904553	-13.43736408696	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Petrous	ksk061	3.23746466337929	-13.43736408696	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Malleus	ksk073	5.98265596917979	12.7993295067147	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Petrous	ksk073	5.21691611843133	12.7993295067147	Downsampled Clonality (%)	Petrous|Malleus
+Malleus	Malleus	bah032	73.4677	10.3777578446038	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Petrous	bah032	65.8434	10.3777578446038	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Malleus	ksk034	60.9122	-11.456489832907	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Petrous	ksk034	67.8906	-11.456489832907	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Malleus	ksk056	67.5489	-0.43301963466465	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Petrous	ksk056	67.8414	-0.43301963466465	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Malleus	ksk061	64.1365	-2.5531483632565	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Petrous	ksk061	65.774	-2.5531483632565	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Malleus	ksk073	69.2428	-7.55370955536172	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Petrous	ksk073	74.4732	-7.55370955536172	Avg Read Length (bp)	Petrous|Malleus
+Malleus	Malleus	bah032	44.68	37.1754700089526	PMD (%)	Petrous|Malleus
+Malleus	Petrous	bah032	28.07	37.1754700089526	PMD (%)	Petrous|Malleus
+Malleus	Malleus	ksk034	35.297	5.07691871830466	PMD (%)	Petrous|Malleus
+Malleus	Petrous	ksk034	33.505	5.07691871830466	PMD (%)	Petrous|Malleus
+Malleus	Malleus	ksk056	31.594	-0.582389061214147	PMD (%)	Petrous|Malleus
+Malleus	Petrous	ksk056	31.778	-0.582389061214147	PMD (%)	Petrous|Malleus
+Malleus	Malleus	ksk061	36.109	3.57528593979341	PMD (%)	Petrous|Malleus
+Malleus	Petrous	ksk061	34.818	3.57528593979341	PMD (%)	Petrous|Malleus
+Malleus	Malleus	ksk073	36.765	3.54413164694682	PMD (%)	Petrous|Malleus
+Malleus	Petrous	ksk073	35.462	3.54413164694682	PMD (%)	Petrous|Malleus
+Malleus	Malleus	bah032	0.9334624	NA	Cont. Est.	Petrous|Malleus
+Malleus	Petrous	bah032	NA	NA	Cont. Est.	Petrous|Malleus
+Malleus	Malleus	ksk034	0.96478	-1.4198573768113	Cont. Est.	Petrous|Malleus
+Malleus	Petrous	ksk034	0.9784785	-1.4198573768113	Cont. Est.	Petrous|Malleus
+Malleus	Malleus	ksk056	0.9784755	-0.04432405308053	Cont. Est.	Petrous|Malleus
+Malleus	Petrous	ksk056	0.9789092	-0.04432405308053	Cont. Est.	Petrous|Malleus
+Malleus	Malleus	ksk061	0.9726025	0.400903760786137	Cont. Est.	Petrous|Malleus
+Malleus	Petrous	ksk061	0.9687033	0.400903760786137	Cont. Est.	Petrous|Malleus
+Malleus	Malleus	ksk073	0.9510724	-1.44162526428061	Cont. Est.	Petrous|Malleus
+Malleus	Petrous	ksk073	0.9647833	-1.44162526428061	Cont. Est.	Petrous|Malleus
+Incus	Incus	ksk057	72.575554293893	19.9828393798928	Human Proportion (%)	Petrous|Incus
+Incus	Petrous	ksk057	60.4882787146772	19.9828393798928	Human Proportion (%)	Petrous|Incus
+Incus	Incus	ksk061	72.6846606430053	71.356768663485	Human Proportion (%)	Petrous|Incus
+Incus	Petrous	ksk061	42.4171517763301	71.356768663485	Human Proportion (%)	Petrous|Incus
+Incus	Incus	ksk057	2.98220516761517	-20.1221457584504	Downsampled Clonality (%)	Petrous|Incus
+Incus	Petrous	ksk057	3.73345678339959	-20.1221457584504	Downsampled Clonality (%)	Petrous|Incus
+Incus	Incus	ksk061	2.15452925174322	-33.4501075451336	Downsampled Clonality (%)	Petrous|Incus
+Incus	Petrous	ksk061	3.23746466337929	-33.4501075451336	Downsampled Clonality (%)	Petrous|Incus
+Incus	Incus	ksk057	63.2642	-1.49921139207592	Avg Read Length (bp)	Petrous|Incus
+Incus	Petrous	ksk057	64.2271	-1.49921139207592	Avg Read Length (bp)	Petrous|Incus
+Incus	Incus	ksk061	74.5434	13.3326238331256	Avg Read Length (bp)	Petrous|Incus
+Incus	Petrous	ksk061	65.774	13.3326238331256	Avg Read Length (bp)	Petrous|Incus
+Incus	Incus	ksk057	30.292	-8.53036204970256	PMD (%)	Petrous|Incus
+Incus	Petrous	ksk057	33.117	-8.53036204970256	PMD (%)	Petrous|Incus
+Incus	Incus	ksk061	32.084	-7.85226032511918	PMD (%)	Petrous|Incus
+Incus	Petrous	ksk061	34.818	-7.85226032511918	PMD (%)	Petrous|Incus
+Incus	Incus	ksk057	0.9864922	1.22447178672611	Cont. Est.	Petrous|Incus
+Incus	Petrous	ksk057	0.974559	1.22447178672611	Cont. Est.	Petrous|Incus
+Incus	Incus	ksk061	0.9814907	1.32005331250549	Cont. Est.	Petrous|Incus
+Incus	Petrous	ksk061	0.9687033	1.32005331250549	Cont. Est.	Petrous|Incus
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash116	44.5828182749229	15.1396445798037	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash116	38.7206495535275	15.1396445798037	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash137	60.164621622102	75.0617813102738	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash137	34.3676507640855	75.0617813102738	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	cay038	42.727324544618	276.477473094522	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	cay038	11.3492380283509	276.477473094522	Human Proportion (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash116	7.94342044115067	-11.7377613779843	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash116	8.99979488982653	-11.7377613779843	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash137	5.10484048361369	-14.4395205616403	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash137	5.96635329432833	-14.4395205616403	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	cay038	7.70579607583522	-58.6799671556755	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	cay038	18.6490560277801	-58.6799671556755	Downsampled Clonality (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash116	51.2079	-6.7631785937978	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash116	54.9224	-6.7631785937978	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash137	66.0723	1.11363448548158	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash137	65.3446	1.11363448548158	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	cay038	56.2055	-0.54940193927383	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	cay038	56.516	-0.54940193927383	Avg Read Length (bp)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash116	49.664	8.17451155496504	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash116	45.911	8.17451155496504	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash137	42.308	0.611162635846943	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash137	42.051	0.611162635846943	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	cay038	44.591	-2.88993423058495	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	cay038	45.918	-2.88993423058495	PMD (%)	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash116	0.9510732	1.04086389982617	Cont. Est.	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash116	0.9412758	1.04086389982617	Cont. Est.	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	ash137	0.9875579	0.670430857434454	Cont. Est.	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	ash137	0.9809811	0.670430857434454	Cont. Est.	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Unidentifiable Ossicle	cay038	0.9393343	20.6040355746445	Cont. Est.	Petrous|Unidentifiable Ossicle
+Unidentifiable Ossicle	Petrous	cay038	0.7788581	20.6040355746445	Cont. Est.	Petrous|Unidentifiable Ossicle
