@@ -1,4 +1,4 @@
-# All Data and Scripts For Sağlıcan & Sevkar et. al., 2025
+# All Data and Scripts For Sağlıcan & Sevkar _et. al._, 2025
 
 doi:<ADD_DOI_HERE>
 
