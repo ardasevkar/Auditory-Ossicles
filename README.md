@@ -1,6 +1,6 @@
 # All Data and Scripts For Sağlıcan & Sevkar _et. al._, 2025
 
-doi: https://doi.org/10.1101/2025.07.17.664655 
+**DOI:** https://doi.org/10.1101/2025.07.17.664655 
 
 ## Info
 
