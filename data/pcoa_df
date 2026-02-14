@@ -1,0 +1,138 @@
+library	PCoA1	PCoA2	bone	library_type	region
+Ind002_a	0.220011445865452	0.136012112352461	Petrous	ossicle&petrous	Anatolia
+Ind002_e	0.12268249662992	0.16426154717262	Unidentified Ossicle	ossicle&petrous	Anatolia
+Ind003_a	-0.103355159440372	-0.0704330472649247	Petrous	ossicle&petrous	Anatolia
+Ind003_e	0.401070021728904	-0.138099720978754	Unidentified Ossicle	ossicle&petrous	Anatolia
+Ind004_a	-0.202025825321382	0.258060584412645	Petrous	petrous&ossicle&tooth	Anatolia
+Ind004_c	-0.0376498891046873	0.399602490339346	Malleus	petrous&ossicle&tooth	Anatolia
+Ind005_a	-0.211655337743683	0.155482212898194	Petrous	petrous&ossicle&tooth	Anatolia
+Ind005_b	0.381788823643788	-0.177064013668328	Stapes	petrous&ossicle&tooth	Anatolia
+Ind006_a	-0.204965020223899	-0.0681116758044716	Petrous	ossicle&petrous	Anatolia
+Ind006_e	0.0899972674339868	0.0381945025863885	Unidentified Ossicle	ossicle&petrous	Anatolia
+Ind020_a	-0.339646290980581	-0.202191543063145	Petrous	only petrous	Anatolia
+Ind021_a	-0.0394925728777957	0.0302667823139896	Petrous	only petrous	Anatolia
+Ind022_a	-0.313048200532158	-0.270061048636694	Petrous	only petrous	Anatolia
+Ind023_a	-0.0434185822454246	0.271068929913718	Petrous	only petrous	Anatolia
+Ind024_b	0.302495938011892	0.247140769055228	Stapes	only ossicle	Anatolia
+Ind025_b	0.3462157629238	0.15681390419257	Stapes	only ossicle	Anatolia
+Ind026_a	-0.0833294916885517	0.00756028980767396	Petrous	only petrous	Anatolia
+Ind027_a	0.171317827710959	0.18587733823493	Petrous	only petrous	Anatolia
+Ind028_a	-0.0654287474587388	0.374925861605268	Petrous	only petrous	Anatolia
+Ind029_d	-0.287232816489204	-0.220448612780546	Incus	only ossicle	Anatolia
+Ind030_a	-0.292153330583148	-0.0368202533439665	Petrous	only petrous	Anatolia
+Ind031_a	-0.211598062756716	-0.161963179135928	Petrous	only petrous	Anatolia
+Ind032_a	-0.0906602448001964	0.0841548187191431	Petrous	only petrous	Anatolia
+Ind033_c	-0.204233303072312	0.0690044429806535	Malleus	only ossicle	Anatolia
+Ind034_a	-0.170722769967911	0.309612894707971	Petrous	only petrous	Anatolia
+Ind035_a	-0.184341372373176	0.338910940188936	Petrous	only petrous	Anatolia
+Ind036_a	-0.0208642158327588	-0.0319022162190251	Petrous	only petrous	Anatolia
+Ind037_c	-0.153999025225488	-0.17894926727469	Malleus	only ossicle	Anatolia
+Ind038_a	0.431133712940278	0.0203326523799126	Petrous	only petrous	Anatolia
+Ind039_b	0.332452231490332	0.165573753180604	Stapes	only ossicle	Anatolia
+Ind040_a	0.139960348106629	0.0822375206713582	Petrous	only petrous	Anatolia
+Ind041_a	0.197236365288337	0.218186719947379	Petrous	only petrous	Anatolia
+Ind042_a	-0.341779004342339	-0.29224325715658	Petrous	only petrous	Anatolia
+Ind043_b	0.511718930507783	-0.0382714266512351	Stapes	only ossicle	Anatolia
+Ind044_a	0.195687293768935	0.0654451573221435	Petrous	only petrous	Anatolia
+Ind045_a	-0.210171241023264	0.00843581141806822	Petrous	only petrous	Anatolia
+Ind046_c	0.573608647829593	-0.175723018344997	Malleus	only ossicle	Anatolia
+Ind047_b	0.536168785185329	-0.0472285196847102	Stapes	only ossicle	Anatolia
+Ind048_a	-0.340527775362859	-0.188764556450744	Petrous	only petrous	Anatolia
+Ind049_d	-0.215765019484438	-0.298009718683377	Incus	only ossicle	Anatolia
+Ind050_a	-0.249426394492605	-0.0547240542313536	Petrous	only petrous	Anatolia
+Ind051_a	0.129534749794124	0.0895673017532343	Petrous	only petrous	Anatolia
+Ind052_a	0.596119731049073	-0.197708805140875	Petrous	ossicle&petrous	Anatolia
+Ind052_c	0.270493384520441	-0.226175619658883	Malleus	ossicle&petrous	Anatolia
+Ind053_a	0.30230430412396	0.080630259866838	Petrous	only petrous	Anatolia
+Ind054_a	-0.372619070222243	-0.304932810917747	Petrous	ossicle&petrous	Anatolia
+Ind054_b	0.589848049213745	-0.18951931194109	Stapes	ossicle&petrous	Anatolia
+Ind055_a	-0.330929265226658	-0.33305508018542	Petrous	only petrous	Anatolia
+Ind056_a	0.0292598114785398	0.00267968736467212	Petrous	ossicle&petrous	Anatolia
+Ind056_b	0.596119731049073	-0.197708805140875	Stapes	ossicle&petrous	Anatolia
+Ind057_a	-0.296750619474847	-0.203571400402889	Petrous	ossicle&petrous	Anatolia
+Ind057_b	0.563868638872108	-0.167606750862239	Stapes	ossicle&petrous	Anatolia
+Ind058_a	-0.217455888139002	-0.0615873680967465	Petrous	only petrous	Anatolia
+Ind059_a	-0.0983770817477053	-0.0171034678124258	Petrous	only petrous	Anatolia
+Ind060_a	-0.00882933968028939	0.149647434828234	Petrous	only petrous	Anatolia
+Ind061_a	-0.0315095760149946	0.392351850737111	Petrous	only petrous	Anatolia
+Ind062_a	-0.0609675659091136	0.259656862026851	Petrous	only petrous	Anatolia
+Ind063_a	-0.00916391965921673	0.41071310076958	Petrous	only petrous	Anatolia
+Ind064_a	-0.208760777456141	-0.00247649597139257	Petrous	ossicle&petrous	Anatolia
+Ind064_b	0.561463344432933	-0.10621980963668	Stapes	ossicle&petrous	Anatolia
+Ind065_a	-0.363776964434455	-0.180523536321701	Petrous	only petrous	Anatolia
+Ind066_c	0.124890892914338	0.32256240760319	Malleus	only ossicle	Anatolia
+Ind067_a	-0.139819351872042	0.124956654941061	Petrous	only petrous	Anatolia
+Ind068_a	-0.226728296372449	0.230946537428374	Petrous	only petrous	Anatolia
+Ind069_a	-0.161321758228797	0.177717463998281	Petrous	only petrous	Anatolia
+Ind070_a	0.109966012551095	-0.0000264982409950438	Petrous	only petrous	Anatolia
+Ind071_a	-0.247303576549516	-0.0741365870089273	Petrous	only petrous	Anatolia
+Ind072_a	-0.279936289070524	-0.213368624313437	Petrous	only petrous	Anatolia
+Ind073_a	0.0788702019232554	0.119287193215185	Petrous	ossicle&petrous	Anatolia
+Ind073_c	0.594507148323449	-0.198170261785702	Malleus	ossicle&petrous	Anatolia
+Ind074_a	0.0525413056444282	0.137330190799781	Petrous	ossicle&petrous	Anatolia
+Ind074_d	0.391112907538642	-0.0412425429321383	Incus	ossicle&petrous	Anatolia
+Ind075_a	-0.0112735750491343	-0.0705065835415578	Petrous	only petrous	Anatolia
+Ind076_a	-0.0505585604033931	0.172453153623341	Petrous	only petrous	Anatolia
+Ind077_a	-0.166612898359935	0.0570682497870956	Petrous	ossicle&petrous	Anatolia
+Ind077_b	0.573138421006348	-0.175327985143798	Stapes	ossicle&petrous	Anatolia
+Ind078_a	-0.126969677546545	-0.0619678774165894	Petrous	ossicle&petrous	Anatolia
+Ind078_c	-0.253992031130625	-0.246199047760376	Malleus	ossicle&petrous	Anatolia
+Ind078_d	0.553307152578381	-0.168196963039307	Incus	ossicle&petrous	Anatolia
+Ind079_a	-0.342807464569552	-0.269690694331992	Petrous	only petrous	Anatolia
+Ind080_a	0.196335427502691	0.0176154276172754	Petrous	only petrous	Anatolia
+Ind081_a	-0.249784354385168	-0.15571862109308	Petrous	only petrous	Anatolia
+Ind082_a	-0.285124254909744	-0.115566255298141	Petrous	only petrous	Anatolia
+Ind083_a	-0.230519747929268	-0.104283205394483	Petrous	only petrous	Anatolia
+Ind084_a	-0.243602543863711	-0.107886488775293	Petrous	only petrous	Anatolia
+Ind085_a	-0.371475140750858	-0.221157584069667	Petrous	only petrous	Anatolia
+Ind086_a	-0.285531395682151	-0.215821647136343	Petrous	only petrous	Anatolia
+Ind087_a	0.100593311100374	0.0519551552341741	Petrous	only petrous	Anatolia
+Ind088_a	0.0903469970520729	-0.0269932186587877	Petrous	only petrous	Anatolia
+Ind089_a	0.100288718000014	0.0930087034044152	Petrous	ossicle&petrous	Anatolia
+Ind089_c	0.50113855476169	-0.237489648276661	Malleus	ossicle&petrous	Anatolia
+Ind090_a	0.0050639088197878	0.035730078966037	Petrous	only petrous	Anatolia
+Ind091_a	0.0294891227900197	0.223669684140782	Petrous	only petrous	Anatolia
+Ind092_a	-0.350218789079337	-0.241586898916381	Petrous	only petrous	Anatolia
+Ind093_a	0.0927535959151117	0.121987462714965	Petrous	only petrous	Anatolia
+Ind094_a	-0.238797795743604	-0.052053034095863	Petrous	only petrous	Anatolia
+Ind095_a	-0.0416479592846643	0.00314162170759967	Petrous	only petrous	Anatolia
+Ind096_a	-0.348927255291347	-0.282169543990017	Petrous	only petrous	Anatolia
+Ind097_a	-0.169138459467838	-0.000861295823692729	Petrous	only petrous	Anatolia
+Ind098_a	-0.0609035650939117	0.0395373326788587	Petrous	only petrous	Anatolia
+Ind099_a	-0.108593659184189	-0.0936036739893966	Petrous	only petrous	Anatolia
+Ind100_a	0.0682616071968444	0.194260978997881	Petrous	only petrous	Anatolia
+Ind101_a	-0.303841842463349	-0.0990020270003702	Petrous	only petrous	Anatolia
+Ind102_a	0.519337955397323	-0.160287051810327	Petrous	ossicle&petrous	Anatolia
+Ind102_b	0.552235940189055	-0.169398989255238	Stapes	ossicle&petrous	Anatolia
+Ind103_a	-0.147941857735145	0.32537291735875	Petrous	only petrous	Anatolia
+Ind104_a	-0.195147922702807	0.351988190591007	Petrous	only petrous	Anatolia
+Ind105_a	-0.135307482503667	0.379268501649587	Petrous	only petrous	Anatolia
+Ind106_a	-0.355015870595654	-0.0956529704940516	Petrous	only petrous	Anatolia
+Ind107_a	-0.0920042031858499	0.451525277231622	Petrous	only petrous	Anatolia
+Ind108_a	-0.300620582493667	-0.130091558246953	Petrous	only petrous	Anatolia
+Ind109_a	-0.242813746839506	0.234800250873273	Petrous	only petrous	Anatolia
+Ind110_a	-0.327613978722314	0.00612781466007351	Petrous	only petrous	Anatolia
+Ind111_e	0.381788823643788	-0.177064013668328	Unidentified Ossicle	only ossicle	Anatolia
+Ind007_b	-0.0393043615243266	-0.448418663227834	Stapes	ossicle&petrous	Iberia
+Ind008_a	-0.210523262023476	0.183191093157784	Petrous	ossicle&petrous	Iberia
+Ind008_c	-0.12180171206309	0.0664841051771232	Malleus	ossicle&petrous	Iberia
+Ind009_a	0.438715137855459	0.219738288984497	Petrous	ossicle&petrous	Iberia
+Ind009_d	0.393148706914235	-0.543696071030888	Incus	ossicle&petrous	Iberia
+Ind010_a	-0.0232792738000669	0.0478019133622055	Petrous	ossicle&petrous	Iberia
+Ind010_d	-0.233333394889504	-0.0180903727014633	Incus	ossicle&petrous	Iberia
+Ind011_a	-0.309208253832404	0.158408052260457	Petrous	ossicle&petrous	Iberia
+Ind011_b	-0.332393519894555	0.129456696091345	Stapes	ossicle&petrous	Iberia
+Ind012_a	0.247610937029117	0.308310150312874	Petrous	ossicle&petrous	Iberia
+Ind013_a	0.35500504603523	0.109488213980127	Petrous	ossicle&petrous	Iberia
+Ind013_d	-0.100326746080527	-0.372328433520389	Incus	ossicle&petrous	Iberia
+Ind014_a	-0.23608369120874	0.0128072385709908	Petrous	ossicle&petrous	Iberia
+Ind014_c	-0.133073564683117	-0.314974051436134	Malleus	ossicle&petrous	Iberia
+Ind015_a	-0.18378558809354	-0.088438055385145	Petrous	ossicle&petrous	Iberia
+Ind015_c	-0.299476857031479	0.159145310215393	Malleus	ossicle&petrous	Iberia
+Ind016_a	0.393148706914235	-0.543696071030888	Petrous	ossicle&petrous	Iberia
+Ind016_d	-0.240668423132054	0.029010440546799	Incus	ossicle&petrous	Iberia
+Ind017_a	0.351644581565917	0.262614277296357	Petrous	ossicle&petrous	Iberia
+Ind017_c	0.459410349456835	0.257294103730642	Malleus	ossicle&petrous	Iberia
+Ind018_a	0.450521166924434	0.269885366275985	Petrous	ossicle&petrous	Iberia
+Ind018_d	-0.314604104483926	0.0128848975237698	Incus	ossicle&petrous	Iberia
+Ind019_e	-0.311341879954657	0.103121570846394	Unidentified Ossicle	ossicle&petrous	Iberia
